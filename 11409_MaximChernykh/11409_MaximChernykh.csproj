@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArraySorting\ArraySorting.cs" />
+    <Compile Include="BinaryNum\BinaryNum.cs" />
+    <Compile Include="BinarySearch\BinarySearch.cs" />
+    <Compile Include="CapitalizingText\CapitalizingText.cs" />
+    <Compile Include="CountOfThreeNums\CountOfThreeNums.cs" />
+    <Compile Include="FindingNums\FindingNums.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReversingArray\ReversingArray.cs" />
+    <Compile Include="ReversingNum\ReversingNum.cs" />
+    <Compile Include="SideOfCube\SideOfCube.cs" />
+    <Compile Include="SumOfThree\SumOfThree.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
