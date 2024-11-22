@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
+//Программу, которая осуществляет капитализацию введенного пользователем текста.
+//В качестве разделителя слов использовать пробел.
 namespace _11409_MaximChernykh.CapitalizingTextNamespace
 {
     internal class CapitalizingText

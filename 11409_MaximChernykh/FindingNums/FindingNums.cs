@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
+// Ищет в строке цифры и выводит всё как единую строку
 namespace _11409_MaximChernykh.FindingNumsNamespace
 {
     internal class FindingNums

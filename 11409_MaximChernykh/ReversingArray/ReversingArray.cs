@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Переворачивает массив
-namespace _11409_MaximChernykh.ReverseArray
+namespace _11409_MaximChernykh.ReverseArrayNamespace
 {
     internal class ReversingArray
     {
